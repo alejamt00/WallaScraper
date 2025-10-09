@@ -2,9 +2,7 @@
 
 Bot de alertas de Wallapop con integración de Telegram. Permite buscar artículos automáticamente y recibir notificaciones en tu chat.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)  
-[![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://core.telegram.org/bots)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)       [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)   [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://core.telegram.org/bots)
 
 ---
 
@@ -22,19 +20,6 @@ Bot de alertas de Wallapop con integración de Telegram. Permite buscar artícul
 
 - Python 3.10+
 - Telegram Bot API Token de BotFather
-
----
-
-## ⚡ Instalación
-
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/alejamt00/WallaScraper.git
-cd WallaScraper
-```
-
-2. Configurar entorno y dependencias usando `launch.bat` (Windows)
 
 ---
 
@@ -65,12 +50,10 @@ WallaScraper/
 
 ---
 
-## 📄 Licencia
+## ❗ Disclaimer
 
-MIT License
+Es un proyecto personal programado rápida y cutremente, tirando bastante de IAs varias, con funciones no implementadas correctamente y probablemente bastantes errores... 
+Debería ser funcional, eso sí :) Eres libre de modificarlo/mejorarlo a tu gusto 💜
 
 ---
 
-## ℹ️ About
-
-Scraper para Wallapop y avisos a través de bot de Telegram.
