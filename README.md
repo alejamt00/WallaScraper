@@ -2,7 +2,7 @@
 
 Bot de alertas de Wallapop con integración de Telegram. Permite buscar artículos automáticamente y recibir notificaciones en tu chat.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)       [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)   [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://core.telegram.org/bots)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)      [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)   [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://core.telegram.org/bots)
 
 ---
 
@@ -56,4 +56,5 @@ Es un proyecto personal programado rápida y cutremente, tirando bastante de IAs
 Debería ser funcional, eso sí :) Eres libre de modificarlo/mejorarlo a tu gusto 💜
 
 ---
+
 
